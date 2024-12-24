@@ -1,0 +1,22 @@
+title: Tên Blog
+description: Write an awesome description for your new site here.
+theme: minima
+
+baseurl: "/my-blog"
+url: "https://username.github.io"
+
+social_links:
+  twitter: username
+  github: username
+
+author:
+  name: {{ site.github.owner_name }}
+  avatar: {{ site.github.owner_gravatar_url }}
+  bio: "Mô tả ngắn về bản thân"
+  location: "Đà Nẵng - Việt nam"
+  email: your-email@domain.com
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"description: >-
+  Write an awesome description for your new site here.
+      url: {{ site.github.owner_url }}
