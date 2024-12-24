@@ -20,3 +20,11 @@ author:
       icon: "fab fa-fw fa-github"description: >-
   Write an awesome description for your new site here.
       url: {{ site.github.owner_url }}
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+      
