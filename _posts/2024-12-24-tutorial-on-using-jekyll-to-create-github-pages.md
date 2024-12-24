@@ -2,7 +2,6 @@
 layout: post
 title: "Sử dụng Jekyll để tạo GitHub Pages"
 date: 2024-12-24
-categories: [category1, category2]
 tags: [tag1, tag2]
 ---
 
