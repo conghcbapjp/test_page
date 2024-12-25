@@ -1,27 +1,26 @@
+# Site settings
 title: Tên Blog
 description: "Write an awesome description for your new site here."
 theme: minima
 
-baseurl: "/my-blog"
-url: "https://username.github.io"
+# URL settings
+baseurl: ""
+url: "https://conghcbapjp.github.io"
 
-social_links:
-  twitter: username
-  github: username
+# Social links
+github_username: conghcbapjp
+twitter_username: conghcbapjp
 
+# Author settings
 author:
-  name: "{{ site.github.owner_name }}"
-  avatar: "{{ site.github.owner_gravatar_url }}"
+  name: Your Name
   bio: "Mô tả ngắn về bản thân"
   location: "Đà Nẵng - Việt Nam"
   email: your-email@domain.com
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "{{ site.github.owner_url }}"
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-github-metadata
