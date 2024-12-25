@@ -7,17 +7,6 @@ theme: minima
 baseurl: ""
 url: "https://conghcbapjp.github.io"
 
-# Social links
-github_username: conghcbapjp
-twitter_username: conghcbapjp
-
-# Author settings
-author:
-  name: Your Name
-  bio: "Mô tả ngắn về bản thân"
-  location: "Đà Nẵng - Việt Nam"
-  email: your-email@domain.com
-
 # Build settings
 markdown: kramdown
 plugins:
