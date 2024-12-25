@@ -4,7 +4,7 @@ description: "Write an awesome description for your new site here."
 theme: minima
 
 # URL settings
-baseurl: ""
+baseurl: "/test_page"
 url: "https://conghcbapjp.github.io"
 
 # Build settings
