@@ -1,7 +1,6 @@
 # Site settings
 title: Tên Blog
 description: "Write an awesome description for your new site here."
-theme: minima
 
 # URL settings
 baseurl: "/test_page"
